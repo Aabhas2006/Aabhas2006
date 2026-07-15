@@ -126,18 +126,6 @@ Learning Python through Formula 1 themed challenges and projects.
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aabhas2006&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aabhas2006&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
